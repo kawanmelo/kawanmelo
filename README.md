@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/kawanmelo">
-  <img  width = " 400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img  width = " 400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars,prs,issues"/>
   <img width = " 400em"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmelo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   <h1>Main skills </h1>
