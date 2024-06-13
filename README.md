@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B4F96&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Kawan+Melo)](https://git.io/typing-svg)
 
 - 🪶 Na constante busca pelo conhecimento.
+- Contato : kawangcmelo@gmail.com
  
 ##
 
