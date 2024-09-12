@@ -1,19 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B4F96&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Kawan+Melo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B4F96&random=false&width=435&lines=Hi,+I’m+Kawan+Melo)](https://git.io/typing-svg)
 
-- 🪶 Na constante busca pelo conhecimento.
-- Contato : kawangcmelo@gmail.com
+- 🪶 In the constant pursuit of knowledge.
+- Contact : kawangcmelo@gmail.com
  
 ##
 
 <div align="center">
   <a href="https://github.com/kawanmelo">
-  <img  width = " 400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars,prs,issues"/>
+  <img  width = " 400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars,issues"/>
   <img width = " 400em"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanmelo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+   
   <h1>Main skills </h1>
 
 <div style="display: inline_block"><br>
   <img alt="Kawan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img alt="Kawan-.NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Kawan-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img alt="Kawan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img alt="Kawan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
