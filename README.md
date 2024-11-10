@@ -16,7 +16,7 @@
 <div style="display: inline_block"><br>
  
   <img alt="Kawan-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img alt="Kawan-Symfony" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
+  <img alt="Kawan-Symfony" height="40" width="40" src="https://github.com/kawanmelo/kawanmelo/blob/main/icons/symfony-svgrepo-com.png" />
   <img alt="Kawan-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img alt="Kawan-.NetCore" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="Kawan-.MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
