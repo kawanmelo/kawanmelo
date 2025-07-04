@@ -15,9 +15,10 @@
 
 <div style="display: inline_block"><br>
  
-  <img alt="Kawan-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img alt="Kawan-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">      
   <img alt="Kawan-Symfony" height="40" width="40" src="https://github.com/kawanmelo/kawanmelo/blob/main/icons/symfony-svgrepo-com.png" />
-  <img alt="Kawan-.MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Kawan-Laravel" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alt="Kawan-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="Kawan-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img alt="Kawan-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   
